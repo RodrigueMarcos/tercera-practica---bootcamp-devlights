@@ -1,0 +1,15 @@
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\bin\Debug\net6.0\Array_List.exe
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\bin\Debug\net6.0\Array_List.deps.json
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\bin\Debug\net6.0\Array_List.runtimeconfig.json
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\bin\Debug\net6.0\Array_List.dll
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\bin\Debug\net6.0\Array_List.pdb
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\Array_List.csproj.AssemblyReference.cache
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\Array_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\Array_List.AssemblyInfoInputs.cache
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\Array_List.AssemblyInfo.cs
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\Array_List.csproj.CoreCompileInputs.cache
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\Array_List.dll
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\refint\Array_List.dll
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\Array_List.pdb
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\Array_List.genruntimeconfig.cache
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Array_List\obj\Debug\net6.0\ref\Array_List.dll

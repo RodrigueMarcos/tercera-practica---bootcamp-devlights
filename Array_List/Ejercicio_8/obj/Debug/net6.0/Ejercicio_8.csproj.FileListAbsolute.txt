@@ -1,0 +1,15 @@
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\bin\Debug\net6.0\Ejercicio_8.exe
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\bin\Debug\net6.0\Ejercicio_8.deps.json
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\bin\Debug\net6.0\Ejercicio_8.runtimeconfig.json
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\bin\Debug\net6.0\Ejercicio_8.dll
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\bin\Debug\net6.0\Ejercicio_8.pdb
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\Ejercicio_8.csproj.AssemblyReference.cache
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\Ejercicio_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\Ejercicio_8.AssemblyInfoInputs.cache
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\Ejercicio_8.AssemblyInfo.cs
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\Ejercicio_8.csproj.CoreCompileInputs.cache
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\Ejercicio_8.dll
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\refint\Ejercicio_8.dll
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\Ejercicio_8.pdb
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\Ejercicio_8.genruntimeconfig.cache
+D:\Documents\Ejercicios\Tercer practico\tercera-practica---bootcamp-devlights\Array_List\Ejercicio_8\obj\Debug\net6.0\ref\Ejercicio_8.dll
